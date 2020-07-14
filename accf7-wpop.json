@@ -1,0 +1,19 @@
+{
+	"name" : "Active Campaign & Contact Form 7 Pro",
+	"slug" : "accf7-wpop",
+	"url" : "https://wpoperation.com/plugins/active-campaign-contact-form-7-pro/",
+	"download_url" : "#",
+	"version" : "1.0.7",
+	"requires" : "4.0",
+	"tested" : "5.4.2",
+	"requires_php" : "5.6",
+	"last_updated" : "2020-04-15 02:10:00",
+	"upgrade_notice" : "Plugin update is available.",
+	"author" : "WPoperation",
+	"author_homepage" : "https://wpoperation.com",
+	"sections" : {
+		"description" : "Add Contact Form 7 Data to Active Campiagn Contact lists.",
+		"installation" : "Upload the plugin zip file, Activate it, that's it!",
+		"changelog" : "<h4>1.0.7</h4><ul><li>Fixed Contact Form 7 id issue</li><li>Compatibility check with contact form 7 v5.2</li></ul>"
+	}
+}
