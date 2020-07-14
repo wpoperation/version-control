@@ -1,0 +1,19 @@
+{
+	"name" : "Sale Alert",
+	"slug" : "sale-alert",
+	"url" : "https://wpoperation.com/plugins/sale-alert/",
+	"download_url" : "#",
+	"version" : "2.0.4",
+	"requires" : "4.0",
+	"tested" : "5.4.2",
+	"requires_php" : "5.6",
+	"last_updated" : "2020-03-02 02:10:00",
+	"upgrade_notice" : "Plugin update is available.",
+	"author" : "WPoperation",
+	"author_homepage" : "https://wpoperation.com",
+	"sections" : {
+		"description" : "Shows Real and Fake WooCommerce Sales Notifications.",
+		"installation" : "Upload the plugin zip file, Activate it, that's it!",
+		"changelog" : "<h4>2.0.4</h4><ul><li>Fixed php warning issues</li><li>Added separator field for names and countries</li><li>Compatibility check with latest WordPress version 5.4.2</li></ul>"
+	}
+}
