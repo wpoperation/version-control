@@ -3,7 +3,7 @@
 	"slug" : "sale-alert",
 	"url" : "https://wpoperation.com/plugins/sale-alert/",
 	"download_url" : "#",
-	"version" : "2.0.4",
+	"version" : "2.0.6",
 	"requires" : "4.0",
 	"tested" : "5.4.2",
 	"requires_php" : "5.6",
