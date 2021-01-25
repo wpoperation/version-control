@@ -1,0 +1,19 @@
+{
+	"name" : "Active Campaign & WPForms Pro",
+	"slug" : "ac-wpforms-pro",
+	"url" : "https://wpoperation.com/plugins/active-campaign-wpforms-pro/",
+	"download_url" : "#",
+	"version" : "1.0.2",
+	"requires" : "4.0",
+	"tested" : "5.6",
+	"requires_php" : "5.6",
+	"last_updated" : "2020-09-20 02:10:00",
+	"upgrade_notice" : "Plugin update is available.",
+	"author" : "WPoperation",
+	"author_homepage" : "https://wpoperation.com",
+	"sections" : {
+		"description" : "Add WPForms Data to Active Campiagn Contact lists.",
+		"installation" : "Upload the plugin zip file, Activate it, that's it!",
+		"changelog" : "<h4>1.0.2</h4><ul><li>Fixed update contact issue</ul>"
+	}
+}
