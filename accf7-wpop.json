@@ -3,17 +3,17 @@
 	"slug" : "accf7-wpop",
 	"url" : "https://wpoperation.com/plugins/active-campaign-contact-form-7-pro/",
 	"download_url" : "#",
-	"version" : "1.1.1",
+	"version" : "1.1.2",
 	"requires" : "4.0",
 	"tested" : "5.7.2",
 	"requires_php" : "5.6",
-	"last_updated" : "2020-06-15 02:10:00",
+	"last_updated" : "2020-07-15 02:10:00",
 	"upgrade_notice" : "Plugin update is available.",
 	"author" : "WPoperation",
 	"author_homepage" : "https://wpoperation.com",
 	"sections" : {
 		"description" : "Add Contact Form 7 Data to Active Campiagn Contact lists.",
 		"installation" : "Upload the plugin zip file, Activate it, that's it!",
-		"changelog" : "<h4>1.1.1</h4><ul><li>Added filter to pass data to ActiveCampaign</ul>"
+		"changelog" : "<h4>1.1.2</h4><ul><li>Added option to add Notes to ActiveCampaign</ul>"
 	}
 }
