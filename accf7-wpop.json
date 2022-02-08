@@ -8,7 +8,7 @@
 	"tested" : "5.9",
 	"requires_php" : "5.6",
 	"last_updated" : "2022-02-08 02:10:00",
-	"upgrade_notice" : "!IMPORTANT UPDATE! Plugin update is available.",
+	"upgrade_notice" : "<p style='color:red'>!IMPORTANT UPDATE!</p>",
 	"author" : "WPoperation",
 	"author_homepage" : "https://wpoperation.com",
 	"sections" : {
