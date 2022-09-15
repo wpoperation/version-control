@@ -1,0 +1,19 @@
+{
+	"name" : "WPOP's WPForms to HubSpot(Pro)",
+	"slug" : "wpop-wpforms-hubspot-pro",
+	"url" : "https://wpoperation.com/plugins/wpop-wpforms-hubspot-pro",
+	"download_url" : "#",
+	"version" : "1.0.1",
+	"requires" : "4.0",
+	"tested" : "6.0.2",
+	"requires_php" : "5.6",
+	"last_updated" : "2022-09-15 02:10:00",
+	"upgrade_notice" : "!!IMPORTANT UPDATE!!",
+	"author" : "WPoperation",
+	"author_homepage" : "https://wpoperation.com",
+	"sections" : {
+		"description" : "Add Contact Form 7 Data to Hubspot Contact lists.",
+		"installation" : "Upload the plugin zip file, Activate it, that's it!",
+		"changelog" : "<h4>1.0.1</h4><ul><li>Replaced API keys with Access Token for authintication</li></ul>"
+	}
+}
